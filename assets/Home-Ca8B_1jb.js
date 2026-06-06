@@ -1,0 +1,1 @@
+import{j as e,V as t}from"./index-BFukwLjs.js";const i=()=>e.jsx("iframe",{src:t("/sites/city_coffee/index.html"),style:{width:"100%",height:"100vh",border:"none"},title:"City Coffee"});export{i as default};
